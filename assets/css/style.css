@@ -253,7 +253,7 @@ body {
       border-bottom: 1px solid #fff; }
     .profile-box .left-side .contact-box {
       display: flex;
-      padding: 10px 0px; }
+      padding: 0px 0px; }
       .profile-box .left-side .contact-box .icon {
         padding: 10px; }
         .profile-box .left-side .contact-box .icon i {
@@ -304,16 +304,17 @@ body {
   text-align: right;
   padding: 10px 10px; }
   .rit-cover .hotkey h1 {
+    font-size: 2rem;
     width: 100%;
     text-align: right;
-    color: #c7c2c2; }
+    color: #6A6A6A; }
   .rit-cover .hotkey small {
     font-size: 1rem;
-    color: #9c9898;
+    color: #6A6A6A;
     margin-top: -30px;
     font-weight: 600; }
 .rit-cover .rit-titl {
-  padding: 10px;
+  padding: 5px;
   border-bottom: 2px solid #CCC;
   font-size: 1.1rem; }
   .rit-cover .rit-titl i {
@@ -371,11 +372,11 @@ body {
     .rit-cover .education ul li span {
       font-size: .8rem; }
 .rit-cover .profess-cover {
-  padding: 10px 0px; }
+  padding: 5px 0px; }
   .rit-cover .profess-cover .prog-row {
     width: 100%;
     text-align: left;
-    padding: 8px 2px;
+    padding: 0px 2px;
     font-size: .9rem; }
     .rit-cover .profess-cover .prog-row div {
       padding: 0px; }
